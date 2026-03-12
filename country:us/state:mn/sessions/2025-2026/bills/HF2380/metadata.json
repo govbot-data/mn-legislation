@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 2380",
-  "title": "Discrimination based on disability status prohibited.",
+  "title": "Disability accommodations included as protection from discrimination.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -55,6 +55,50 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:40Z"
+      }
+    },
+    {
+      "description": "Author added Moller",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Authors added Freiberg and Fischer",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
       }
     }
   ],
@@ -218,6 +262,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kraft\"}",
       "organization_id": null
+    },
+    {
+      "name": "Moller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Moller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Freiberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Freiberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fischer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fischer\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -242,6 +310,21 @@
       ],
       "date": "2025-03-14",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380/versions/1/",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380/versions/1/pdf/",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -260,6 +343,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:40Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

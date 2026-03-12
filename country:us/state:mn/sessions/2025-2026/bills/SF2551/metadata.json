@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Children and families and Children, Youth and Families Department",
     "Education and Education Department"
   ],
@@ -38,6 +37,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
       }
+    },
+    {
+      "description": "Author added Abeler",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Housley",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +66,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Westlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abeler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Housley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Housley\"}",
       "organization_id": null
     }
   ],
@@ -90,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

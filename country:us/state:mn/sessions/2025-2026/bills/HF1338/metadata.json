@@ -35,6 +35,36 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:44Z"
       }
+    },
+    {
+      "description": "Author added Clardy",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Gottfried",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Elkins",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -60,6 +90,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Virnig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clardy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clardy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gottfried",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gottfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elkins\"}",
       "organization_id": null
     }
   ],
@@ -103,6 +157,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:44Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

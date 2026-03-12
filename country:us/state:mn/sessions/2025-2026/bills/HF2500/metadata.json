@@ -38,6 +38,46 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
       }
+    },
+    {
+      "description": "Author added Smith",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Bahner",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author changed Bahner",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Jones",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +87,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Falconer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bahner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bahner\"}",
       "organization_id": null
     },
     {
@@ -72,9 +120,31 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rehrauer\"}",
       "organization_id": null
+    },
+    {
+      "name": "Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "SF 3984",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduction",
@@ -108,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

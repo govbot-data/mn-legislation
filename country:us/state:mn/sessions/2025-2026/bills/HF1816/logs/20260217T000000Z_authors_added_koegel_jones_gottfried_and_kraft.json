@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Authors added Koegel, Jones, Gottfried, and Kraft",
+    "date": "2026-02-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 1816"
+}

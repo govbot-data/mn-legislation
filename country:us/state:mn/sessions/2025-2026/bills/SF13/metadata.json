@@ -48,15 +48,35 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Chief author stricken Mitchell",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Chief author added Hemmingsen-Jaeger",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Mitchell",
+      "name": "Hemmingsen-Jaeger",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Mitchell\"}",
+      "person_id": "~{\"name\": \"Hemmingsen-Jaeger\"}",
       "organization_id": null
     },
     {
@@ -108,6 +128,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

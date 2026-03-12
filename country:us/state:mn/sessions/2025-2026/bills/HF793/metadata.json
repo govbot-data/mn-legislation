@@ -127,23 +127,33 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
       }
+    },
+    {
+      "description": "Author added Scott added as Chief Author",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Hollins",
+      "name": "Scott",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Hollins\"}",
+      "person_id": "~{\"name\": \"Scott\"}",
       "organization_id": null
     },
     {
-      "name": "Scott",
+      "name": "Hollins",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Scott\"}",
+      "person_id": "~{\"name\": \"Hollins\"}",
       "organization_id": null
     },
     {
@@ -283,6 +293,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

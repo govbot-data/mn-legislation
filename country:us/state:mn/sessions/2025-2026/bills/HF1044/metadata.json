@@ -55,6 +55,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:44Z"
       }
+    },
+    {
+      "description": "Authors added Finke and Tabke",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Hussein",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -121,6 +141,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Moller\"}",
       "organization_id": null
+    },
+    {
+      "name": "Finke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Finke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tabke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tabke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hussein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hussein\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -163,6 +207,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:44Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

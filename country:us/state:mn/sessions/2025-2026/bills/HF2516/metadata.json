@@ -36,14 +36,62 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Author added Backer",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Author added Kotyza-Witthuhn",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Author added Hill be added as Chief Author",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Author added Falconer and Bierman",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Stephenson",
+      "name": "Hill",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephenson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"name\": \"Stephenson\"}",
       "organization_id": null
     },
@@ -69,6 +117,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rehrauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Backer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Backer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kotyza-Witthuhn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kotyza-Witthuhn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Falconer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Falconer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bierman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bierman\"}",
       "organization_id": null
     }
   ],
@@ -112,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

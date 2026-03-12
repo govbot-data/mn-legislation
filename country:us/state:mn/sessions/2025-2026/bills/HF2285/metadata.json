@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Bonds",
     "Cities and Towns-Specific"
   ],
@@ -27,6 +26,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:40Z"
       }
+    },
+    {
+      "description": "Author added Lee, K.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -44,6 +53,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hussein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lee, K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lee, K.\"}",
       "organization_id": null
     }
   ],
@@ -87,6 +104,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:40Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

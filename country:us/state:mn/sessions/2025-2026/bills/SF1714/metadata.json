@@ -37,6 +37,29 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:45Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Labor",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Author added Mathews",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +94,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"McEwen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mathews\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -95,6 +126,21 @@
       ],
       "date": "2025-02-19",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1714/versions/1/",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1714/versions/1/pdf/",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -113,6 +159,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:45Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

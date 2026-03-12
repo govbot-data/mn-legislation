@@ -49,6 +49,19 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to State and Local Government",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -125,6 +138,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

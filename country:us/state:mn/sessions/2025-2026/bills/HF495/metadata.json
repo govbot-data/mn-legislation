@@ -45,6 +45,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Motion to recall and re-refer, motion prevailed Children and Families Finance and Policy",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Author added Johnson, W.",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,6 +139,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Warwas\"}",
       "organization_id": null
+    },
+    {
+      "name": "Johnson, W.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, W.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -155,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

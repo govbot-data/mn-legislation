@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Authors added Frederick and Reyer",
+    "date": "2026-03-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 3622"
+}

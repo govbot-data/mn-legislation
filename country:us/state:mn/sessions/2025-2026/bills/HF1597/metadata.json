@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 1597",
-  "title": "Task Force on Establishing a Yellow Alert System established, report required, and money appropriated.",
+  "title": "Task Force on Establishing a Yellow Alert System established, and report required.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -25,6 +25,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Motion to recall and re-refer, motion prevailed Transportation Finance and Policy",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Kraft",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Public Safety Finance and Policy",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +74,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Myers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kraft",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kraft\"}",
       "organization_id": null
     }
   ],
@@ -67,6 +107,21 @@
       ],
       "date": "2025-02-25",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1597/versions/1/",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1597/versions/1/pdf/",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -85,6 +140,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

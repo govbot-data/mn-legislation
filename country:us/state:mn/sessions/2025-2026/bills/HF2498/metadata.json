@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Energy"
   ],
   "abstracts": [],
@@ -36,14 +35,32 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Author changed Hollins be shown as Chief Author",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Hemmingsen-Jaeger",
+      "name": "Hollins",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"name\": \"Hollins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hemmingsen-Jaeger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"name\": \"Hemmingsen-Jaeger\"}",
       "organization_id": null
     },
@@ -53,14 +70,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Kraft\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hollins",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Hollins\"}",
       "organization_id": null
     },
     {
@@ -136,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

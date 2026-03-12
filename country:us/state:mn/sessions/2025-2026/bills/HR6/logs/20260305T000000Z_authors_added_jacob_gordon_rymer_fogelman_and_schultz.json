@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Authors added Jacob, Gordon, Rymer, Fogelman, and Schultz",
+    "date": "2026-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR 6"
+}

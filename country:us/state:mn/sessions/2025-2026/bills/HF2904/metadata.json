@@ -58,6 +58,46 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
       }
+    },
+    {
+      "description": "Author stricken Her",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Luger-Nikolai",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author stricken Hemmingsen-Jaeger",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Anderson, P. H.",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -83,14 +123,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Stephenson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Her",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Her\"}",
       "organization_id": null
     },
     {
@@ -270,14 +302,6 @@
       "organization_id": null
     },
     {
-      "name": "Hemmingsen-Jaeger",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Hemmingsen-Jaeger\"}",
-      "organization_id": null
-    },
-    {
       "name": "Pinto",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -340,6 +364,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Pursell\"}",
       "organization_id": null
+    },
+    {
+      "name": "Luger-Nikolai",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Luger-Nikolai\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anderson, P. H.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anderson, P. H.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -382,6 +422,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

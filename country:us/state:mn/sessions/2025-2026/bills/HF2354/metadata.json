@@ -1,13 +1,12 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 2354",
-  "title": "Medicaid fraud provisions added and modified, attorney general provided subpoena and enforcement authority, criminal penalties provided, conforming changes made, and money appropriated.",
+  "title": "Medical assistance fraud governing provisions added and modified, attorney general provided subpoena and enforcement authority, criminal penalties provided, conforming changes made, and money appropriated.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Consumer Protection"
   ],
   "abstracts": [],
@@ -94,6 +93,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:44Z"
       }
+    },
+    {
+      "description": "Authors added Virnig, Curran, and Momanyi-Hiltsley",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Judiciary Finance and Civil Law",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Gottfried",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,6 +174,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bierman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virnig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Virnig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Curran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Curran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Momanyi-Hiltsley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Momanyi-Hiltsley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gottfried",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gottfried\"}",
       "organization_id": null
     }
   ],
@@ -198,6 +261,21 @@
       ],
       "date": "2025-03-27",
       "classification": ""
+    },
+    {
+      "note": "3rd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2354/versions/3/",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2354/versions/3/pdf/",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -216,6 +294,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:44Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

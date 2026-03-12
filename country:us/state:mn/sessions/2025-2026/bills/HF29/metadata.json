@@ -98,6 +98,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:44Z"
       }
+    },
+    {
+      "description": "Author added McDonald",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -220,6 +230,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Gander\"}",
       "organization_id": null
+    },
+    {
+      "name": "McDonald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McDonald\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -262,6 +280,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:44Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

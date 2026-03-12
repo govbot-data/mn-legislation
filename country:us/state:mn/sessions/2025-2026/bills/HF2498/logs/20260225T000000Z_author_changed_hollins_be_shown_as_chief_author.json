@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Author changed Hollins be shown as Chief Author",
+    "date": "2026-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2498"
+}

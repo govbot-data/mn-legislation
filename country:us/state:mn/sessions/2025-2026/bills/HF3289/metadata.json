@@ -26,6 +26,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Authors added Anderson, P. H., and Schultz",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -35,6 +45,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Kresha\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anderson, P. H.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anderson, P. H.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schultz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schultz\"}",
       "organization_id": null
     }
   ],
@@ -78,6 +104,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

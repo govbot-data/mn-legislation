@@ -38,6 +38,30 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -104,6 +128,21 @@
       ],
       "date": "2025-05-18",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3545/versions/1/",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3545/versions/1/pdf/",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -122,6 +161,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

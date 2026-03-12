@@ -27,6 +27,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
       }
+    },
+    {
+      "description": "Motion to recall and re-refer, motion prevailed Health Finance and Policy",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -73,6 +83,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

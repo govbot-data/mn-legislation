@@ -56,6 +56,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:40Z"
       }
+    },
+    {
+      "description": "Authors added Duran and Backer",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Authors added Gander and Skraba",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,6 +117,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Schwartz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Backer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Backer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Skraba",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Skraba\"}",
       "organization_id": null
     }
   ],
@@ -140,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:40Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

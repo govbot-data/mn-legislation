@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Firearms and Dangerous Weapons"
   ],
   "abstracts": [],
@@ -35,6 +34,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
+      }
+    },
+    {
+      "description": "Authors added Reyer, Coulter, Kraft, Smith, Elkins, Hicks, Rehm, Falconer",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
       }
     }
   ],
@@ -166,6 +175,70 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rehrauer\"}",
       "organization_id": null
+    },
+    {
+      "name": "Reyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Coulter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Coulter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kraft",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kraft\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hicks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hicks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rehm",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rehm\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Falconer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Falconer\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -208,6 +281,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

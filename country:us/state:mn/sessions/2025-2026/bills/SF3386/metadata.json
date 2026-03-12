@@ -48,6 +48,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
       }
+    },
+    {
+      "description": "Author added Johnson Stewart",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -65,6 +75,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Kupec\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson Stewart\"}",
       "organization_id": null
     }
   ],
@@ -108,6 +126,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

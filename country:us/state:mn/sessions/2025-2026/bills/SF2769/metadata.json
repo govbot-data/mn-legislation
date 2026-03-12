@@ -49,6 +49,42 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Higher Education",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Abeler",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to State and Local Government",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,6 +102,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abeler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abeler\"}",
       "organization_id": null
     }
   ],
@@ -91,6 +135,21 @@
       ],
       "date": "2025-03-18",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2769/versions/1/",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2769/versions/1/pdf/",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -109,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

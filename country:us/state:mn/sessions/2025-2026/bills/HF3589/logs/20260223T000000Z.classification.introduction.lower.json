@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduction and first reading, referred to Elections Finance and Government Operations",
+    "date": "2026-02-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 3589"
+}

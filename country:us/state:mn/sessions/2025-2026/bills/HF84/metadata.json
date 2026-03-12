@@ -28,6 +28,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
       }
+    },
+    {
+      "description": "Author added Schomacker",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Author added Backer",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -37,6 +57,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Huot\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schomacker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schomacker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Backer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Backer\"}",
       "organization_id": null
     }
   ],
@@ -80,6 +116,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

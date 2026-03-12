@@ -37,6 +37,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:45Z"
       }
+    },
+    {
+      "description": "Author added Frazier",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Rehm",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,6 +163,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Freiberg\"}",
       "organization_id": null
+    },
+    {
+      "name": "Frazier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frazier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rehm",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rehm\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -185,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:45Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

@@ -47,6 +47,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Author added Clark",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +82,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Kupec\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clark\"}",
       "organization_id": null
     }
   ],
@@ -115,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

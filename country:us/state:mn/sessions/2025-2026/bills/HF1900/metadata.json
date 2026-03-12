@@ -26,6 +26,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:45Z"
       }
+    },
+    {
+      "description": "Author added Kotyza-Witthuhn",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Author added Coulter",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -35,6 +55,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kotyza-Witthuhn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kotyza-Witthuhn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Coulter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Coulter\"}",
       "organization_id": null
     }
   ],
@@ -78,6 +114,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:45Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

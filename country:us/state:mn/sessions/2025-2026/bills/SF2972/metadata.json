@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 2972",
-  "title": "For-profit entity acquisitions of nursing homes and assisted living facilities regulation",
+  "title": "For-profit entity acquisitions of nursing homes and assisted living facilities and for-profit entity acquisitions of nursing homes and assisted facilities regulation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -70,6 +70,29 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:45Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Judiciary and Public Safety",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Maye Quade",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,6 +110,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Abeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maye Quade",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maye Quade\"}",
       "organization_id": null
     }
   ],
@@ -127,6 +158,21 @@
       ],
       "date": "2025-04-01",
       "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2972/versions/2/",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2972/versions/2/pdf/",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -145,6 +191,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:45Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Health-Mental Health",
     "Human Services and Human Services Department"
   ],
@@ -38,6 +37,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:40Z"
       }
+    },
+    {
+      "description": "Author added Abeler",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +56,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Champion\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abeler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abeler\"}",
       "organization_id": null
     }
   ],
@@ -90,6 +107,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:40Z"
+    "logs_latest_update": "2026-03-12T13:21:20Z"
   }
 }

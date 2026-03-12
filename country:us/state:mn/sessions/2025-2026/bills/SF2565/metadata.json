@@ -1,14 +1,14 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 2565",
-  "title": "Civic seal designation provision for high school students",
+  "title": "Civic seal designation establishment for high school students, Minnesota Civic Seal Task Force Establishment and appropriation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Education and Education Department",
-    "Education-Pre-Kindergarten-12"
+    "Task Forces"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -70,6 +70,39 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
       }
+    },
+    {
+      "description": "Author added Coleman",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Withdrawn and re-referred to Education Policy",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to State and Local Government",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,6 +128,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Housley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Coleman\"}",
       "organization_id": null
     }
   ],
@@ -135,6 +176,21 @@
       ],
       "date": "2025-03-27",
       "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2565/versions/2/",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2565/versions/2/pdf/",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -153,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

@@ -27,6 +27,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Authors added Burkel and Warwas",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T13:21:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -52,6 +62,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Van Binsbergen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burkel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burkel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Warwas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Warwas\"}",
       "organization_id": null
     }
   ],
@@ -95,6 +121,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-03-12T13:21:21Z"
   }
 }

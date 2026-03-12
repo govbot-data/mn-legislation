@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Authors added Hill, Freiberg, and Youakim",
+    "date": "2026-03-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2689"
+}
